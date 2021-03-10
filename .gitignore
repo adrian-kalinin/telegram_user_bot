@@ -1,0 +1,6 @@
+__pycache__
+venv
+.idea
+.DS_Store
+tg_session.session
+tg_session.session-journal
